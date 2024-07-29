@@ -1,0 +1,22 @@
+
+<html>
+  <head>
+    <title>My Sites</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Мои сайты</h1>
+      <p class="text-big"><b>от конструктора Tilda до вёрстки на HTML и CSS</b></p>
+      <p><a class="link-text" href="https://www.figma.com/design/lX7nNRpD8jm3CFcdd01Koy/Untitled?m=auto&t=mczsHjjV9ZGxn0Tp-6"><b>Сайт</b></a> вкусняшки от егорушки в Tilda</p>
+        <p><a class="link-text" href="https://avatars.mds.yandex.net/get-games/11385414/2a0000018da996f8a194a11e7363faa7b2dc/orig"><b>Сайт</b></a> нагетс ковбой style</p>
+      
+    </main>
+    <footer>
+      <a class="social" href=""><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
